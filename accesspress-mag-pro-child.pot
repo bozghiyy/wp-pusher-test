@@ -1,0 +1,1802 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Femeia.ro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Tue Jun 21 2016 15:17:27 GMT+0300 (EEST)\n"
+"POT-Revision-Date: Tue Jun 21 2016 15:22:16 GMT+0300 (EEST)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: /functions.php:27 /inc/accesspress-widgets.php:15
+msgid "Sidebar"
+msgstr ""
+
+#: /functions.php:37 /inc/accesspress-widgets.php:25
+msgctxt "Sidebar Dreapta"
+msgid "Right Sidebar"
+msgstr ""
+
+#: /functions.php:47 /inc/accesspress-widgets.php:35
+msgctxt "Sidebar Stanga"
+msgid "Left Sidebar"
+msgstr ""
+
+#: /functions.php:57 /inc/accesspress-widgets.php:45
+msgid "Home top sidebar"
+msgstr ""
+
+#: /functions.php:67 /inc/accesspress-widgets.php:55
+msgid "Home middle sidebar"
+msgstr ""
+
+#: /functions.php:77 /inc/accesspress-widgets.php:65
+msgid "Home bottom sidebar"
+msgstr ""
+
+#: /functions.php:87 /inc/accesspress-widgets.php:75
+msgid "Home Page: Middle Content Section"
+msgstr ""
+
+#: /functions.php:97 /inc/accesspress-widgets.php:85
+msgid "Footer 1"
+msgstr ""
+
+#: /functions.php:107 /inc/accesspress-widgets.php:95
+msgid "Footer 2"
+msgstr ""
+
+#: /functions.php:117 /inc/accesspress-widgets.php:105
+msgid "Footer 3"
+msgstr ""
+
+#: /functions.php:127 /inc/accesspress-widgets.php:115
+msgid "Footer 4"
+msgstr ""
+
+#: /functions.php:137 /inc/accesspress-widgets.php:125
+msgctxt "Magazin"
+msgid "Shop"
+msgstr ""
+
+#: /functions.php:391 /inc/widgets/widget-tabbed.php:23
+msgctxt ""
+"Un widget care arata articole Recente, Populare (cele mai multe vizualizari) "
+"si Comentarii."
+msgid "A widget that shows posts of Recent, Popular( most views ) and Comments."
+msgstr ""
+
+#: /functions.php:405 /inc/widgets/widget-tabbed.php:37
+msgctxt "Articole Recente"
+msgid "Show Recent Posts"
+msgstr ""
+
+#: /functions.php:411 /inc/widgets/widget-tabbed.php:43
+msgctxt "Articole Populare"
+msgid "Show Popular Posts"
+msgstr ""
+
+#: /functions.php:417 /inc/widgets/widget-tabbed.php:49
+msgctxt "Comentarii"
+msgid "Show Comments"
+msgstr ""
+
+#: /functions.php:423 /functions.php:1793 /functions.php:2152 /inc/widgets/widget-
+#: latest-posts.php:43 /inc/widgets/widget-news-pictures.php:55 
+#: /inc/widgets/widget-latest-reviews.php:53 /inc/widgets/widget-tabbed.php:55 
+#: /inc/widgets/widget-featured-category.php:60 /inc/widgets/widget-random-posts.
+#: php:41
+msgctxt "Numar de articole"
+msgid "Number of Posts"
+msgstr ""
+
+#: /functions.php:662 /functions.php:869
+msgid "Fade"
+msgstr ""
+
+#: /functions.php:663 /functions.php:870
+msgid "Slide Horizontal"
+msgstr ""
+
+#: /functions.php:664
+msgid "Slide Vertical"
+msgstr ""
+
+#: /functions.php:677
+msgctxt "dupa categorie"
+msgid "by category"
+msgstr ""
+
+#: /functions.php:678
+msgctxt "dupa tag"
+msgid "by tag"
+msgstr ""
+
+#: /functions.php:684
+msgid "Uppercase"
+msgstr ""
+
+#: /functions.php:685
+msgid "Lowercase"
+msgstr ""
+
+#: /functions.php:686
+msgid "Captalize"
+msgstr ""
+
+#: /functions.php:687
+msgid "Normal"
+msgstr ""
+
+#: /functions.php:694
+msgid "Select category"
+msgstr ""
+
+#: /functions.php:702
+msgid "All categories"
+msgstr ""
+
+#: /functions.php:717
+msgid "Select Menu"
+msgstr ""
+
+#: /functions.php:731
+msgid "-- All posts --"
+msgstr ""
+
+#: /functions.php:748
+msgid "-- None --"
+msgstr ""
+
+#: /functions.php:749 /functions.php:862
+msgid "Image"
+msgstr ""
+
+#: /functions.php:750
+msgid "Color"
+msgstr ""
+
+#: /functions.php:751
+msgid "Pattern"
+msgstr ""
+
+#: /functions.php:855
+msgid "Select a page"
+msgstr ""
+
+#: /functions.php:863
+msgid "Text"
+msgstr ""
+
+#: /functions.php:864
+msgid "Image & Text"
+msgstr ""
+
+#: /functions.php:875 /functions.php:883
+msgid "You are here"
+msgstr ""
+
+#: /functions.php:875 /functions.php:883
+msgid "Review overview"
+msgstr ""
+
+#: /functions.php:875 /functions.php:883
+msgid "Summary"
+msgstr ""
+
+#: /functions.php:875 /functions.php:883 /inc/widgets/widget-featured-category.
+#: php:157
+msgid "View all posts"
+msgstr ""
+
+#: /functions.php:875 /functions.php:883
+msgid "by"
+msgstr ""
+
+#: /functions.php:876 /functions.php:884
+msgid "Tagged"
+msgstr ""
+
+#: /functions.php:876 /functions.php:884
+msgid "Next article"
+msgstr ""
+
+#: /functions.php:876 /functions.php:884
+msgid "Previous article"
+msgstr ""
+
+#: /functions.php:877 /functions.php:885
+msgid "Older Posts"
+msgstr ""
+
+#: /functions.php:877 /functions.php:885
+msgid "Newer Posts"
+msgstr ""
+
+#: /functions.php:877 /functions.php:885
+msgid "Older Comments"
+msgstr ""
+
+#: /functions.php:877 /functions.php:885
+msgid "Newer Comments"
+msgstr ""
+
+#: /functions.php:878 /functions.php:886
+msgid "Via"
+msgstr ""
+
+#: /functions.php:878 /functions.php:886
+msgid "Source"
+msgstr ""
+
+#: /functions.php:878 /functions.php:886
+msgid "Similar Articles"
+msgstr ""
+
+#: /functions.php:879 /functions.php:887
+msgid "Advertisement"
+msgstr ""
+
+#: /functions.php:879 /inc/accesspress-functions.php:1245
+msgctxt "Rezultate cautare pentru"
+msgid "Search results for"
+msgstr ""
+
+#: /functions.php:879 /functions.php:887
+msgctxt "Cautare"
+msgid "Search"
+msgstr ""
+
+#: /functions.php:880
+msgctxt "Continut Cautare"
+msgid "Search Placeholder"
+msgstr ""
+
+#: /functions.php:880
+msgid "Top arrow"
+msgstr ""
+
+#: /functions.php:887
+msgctxt "Rezultate cautare pentru"
+msgid "Search Results for"
+msgstr ""
+
+#: /functions.php:888
+msgctxt "Cauta in articole... "
+msgid "Search Content..."
+msgstr ""
+
+#: /functions.php:888 /footer.php:22
+msgctxt "Sus"
+msgid "Top"
+msgstr ""
+
+#: /functions.php:901
+msgctxt "Bine ai venit"
+msgid "Welcome"
+msgstr ""
+
+#: /functions.php:906
+msgctxt "Demo Install intr-un click"
+msgid "One Click Demo Install"
+msgstr ""
+
+#: /functions.php:911
+msgid "Import Demo Content"
+msgstr ""
+
+#: /functions.php:913
+msgid "Import Demo"
+msgstr ""
+
+#: /functions.php:915
+msgid ""
+"This button should only be pressed on a <strong>clean WordPress</strong> "
+"installation. This will overwrite all existing option values, please proceed "
+"with caution!"
+msgstr ""
+
+#: /functions.php:924
+msgid "Basic Settings"
+msgstr ""
+
+#: /functions.php:929
+msgid "General Settings"
+msgstr ""
+
+#: /functions.php:934
+msgid "Skin Color"
+msgstr ""
+
+#: /functions.php:935
+msgid "Select from predefined colors"
+msgstr ""
+
+#: /functions.php:951
+msgid "Custom Skin Color"
+msgstr ""
+
+#: /functions.php:952
+msgid "Select from unlimited colors"
+msgstr ""
+
+#: /functions.php:959
+msgid "Background"
+msgstr ""
+
+#: /functions.php:960
+msgid "Select between Image/Color/Pattern"
+msgstr ""
+
+#: /functions.php:968
+msgid "Background Image"
+msgstr ""
+
+#: /functions.php:981
+msgid "Background Color"
+msgstr ""
+
+#: /functions.php:982
+msgid "Color for the Background"
+msgstr ""
+
+#: /functions.php:989
+msgid "Background Patterns"
+msgstr ""
+
+#: /functions.php:997
+msgid "Enable Pre Loader"
+msgstr ""
+
+#: /functions.php:999 /functions.php:1105 /functions.php:1114 /functions.php:1137 
+#: /functions.php:1146 /functions.php:1248 /functions.php:1387 /functions.php:
+#: 1421 /functions.php:1458 /functions.php:1626 /functions.php:1635 /functions.
+#: php:1644 /functions.php:1661 /functions.php:1708 /functions.php:1993 
+#: /functions.php:2003 /functions.php:2012 /functions.php:2021 /functions.php:
+#: 2030 /functions.php:2039 /functions.php:2048 /functions.php:2057 /functions.
+#: php:2103 /functions.php:2112 /functions.php:2138
+msgid "Yes"
+msgstr ""
+
+#: /functions.php:1000 /functions.php:1106 /functions.php:1115 /functions.php:
+#: 1138 /functions.php:1147 /functions.php:1249 /functions.php:1388 /functions.
+#: php:1422 /functions.php:1459 /functions.php:1627 /functions.php:1636 
+#: /functions.php:1645 /functions.php:1662 /functions.php:1709 /functions.php:
+#: 1994 /functions.php:2004 /functions.php:2013 /functions.php:2022 /functions.
+#: php:2031 /functions.php:2040 /functions.php:2049 /functions.php:2058 
+#: /functions.php:2104 /functions.php:2113 /functions.php:2139
+msgid "No"
+msgstr ""
+
+#: /functions.php:1006
+msgid "Select Preloader"
+msgstr ""
+
+#: /functions.php:1021
+msgid "Post Overlay Icon"
+msgstr ""
+
+#: /functions.php:1022
+msgid "Set the font Awesome icon at overlay of post."
+msgstr ""
+
+#: /functions.php:1033
+msgid "Website Layout"
+msgstr ""
+
+#: /functions.php:1038
+msgid "Website layout"
+msgstr ""
+
+#: /functions.php:1052
+msgid "Primary Menu Setting"
+msgstr ""
+
+#: /functions.php:1057 /functions.php:1260
+msgid "Menu Background Color"
+msgstr ""
+
+#: /functions.php:1058
+msgid "Select primary menu background color"
+msgstr ""
+
+#: /functions.php:1064
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#: /functions.php:1065
+msgid "Select sub menu background color"
+msgstr ""
+
+#: /functions.php:1071 /functions.php:1266 /functions.php:1464
+msgid "Font Family"
+msgstr ""
+
+#: /functions.php:1080 /functions.php:1275 /functions.php:1473
+msgid "Text Transform"
+msgstr ""
+
+#: /functions.php:1087 /functions.php:1282 /functions.php:1480
+msgid "Menu Hover Color"
+msgstr ""
+
+#: /functions.php:1097
+msgid "Breadcrumbs Settings"
+msgstr ""
+
+#: /functions.php:1102
+msgid "Breadcrumb"
+msgstr ""
+
+#: /functions.php:1103
+msgid "Show or hide breadcrumbs on site"
+msgstr ""
+
+#: /functions.php:1111
+msgid "Breadcrumb in Mobile"
+msgstr ""
+
+#: /functions.php:1112
+msgid "Show or hide breadcrumbs in mobile"
+msgstr ""
+
+#: /functions.php:1120
+msgid "Breadcrumb Seperator"
+msgstr ""
+
+#: /functions.php:1121
+msgid "example: >> , / , - etc "
+msgstr ""
+
+#: /functions.php:1127
+msgid "Home Text"
+msgstr ""
+
+#: /functions.php:1128
+msgid "Change home text as required"
+msgstr ""
+
+#: /functions.php:1134
+msgid "Enable link on Home"
+msgstr ""
+
+#: /functions.php:1135
+msgid "Enable or disable homepage link at home in breadcrumbs"
+msgstr ""
+
+#: /functions.php:1143
+msgid "Enable article title"
+msgstr ""
+
+#: /functions.php:1144
+msgid "Show or hide article title on single post"
+msgstr ""
+
+#: /functions.php:1156 /functions.php:1161
+msgid "Custom Css"
+msgstr ""
+
+#: /functions.php:1162
+msgid "Add your required css"
+msgstr ""
+
+#: /functions.php:1172 /functions.php:1177
+msgid "Custom Script"
+msgstr ""
+
+#: /functions.php:1178
+msgid "Add your required script"
+msgstr ""
+
+#: /functions.php:1190
+msgid "Header"
+msgstr ""
+
+#: /functions.php:1195 /functions.php:1201
+msgid "Header Style"
+msgstr ""
+
+#: /functions.php:1202
+msgid "Select the order in which the header elements will be arranged"
+msgstr ""
+
+#: /functions.php:1217
+msgid "Sticky Menu"
+msgstr ""
+
+#: /functions.php:1218
+msgid "Enable or disable sticky menu while page scroll"
+msgstr ""
+
+#: /functions.php:1220 /functions.php:1229 /functions.php:1323 /functions.php:1582
+msgid "Enable"
+msgstr ""
+
+#: /functions.php:1221 /functions.php:1230 /functions.php:1324 /functions.php:1583
+msgid "Disable"
+msgstr ""
+
+#: /functions.php:1226
+msgid "Random Post in Menu"
+msgstr ""
+
+#: /functions.php:1227
+msgid "Enable or Disable Random Post icon in menu section."
+msgstr ""
+
+#: /functions.php:1239 /parts/menu-top.php:20
+msgid "Top Menu"
+msgstr ""
+
+#: /functions.php:1245
+msgid "Top Menu Option"
+msgstr ""
+
+#: /functions.php:1246
+msgid "Hide or show the top menu"
+msgstr ""
+
+#: /functions.php:1254
+msgid "Disable Current Date"
+msgstr ""
+
+#: /functions.php:1255
+msgid "Checked to disable current date at top menu."
+msgstr ""
+
+#: /functions.php:1293
+msgid "Logo Settings"
+msgstr ""
+
+#: /functions.php:1298
+msgid "Logo Alt Attribute"
+msgstr ""
+
+#: /functions.php:1299
+msgid "Write ALT attribute for the logo"
+msgstr ""
+
+#: /functions.php:1304
+msgid "Logo Title Attribute"
+msgstr ""
+
+#: /functions.php:1305
+msgid "Write TITLE attribute for the logo"
+msgstr ""
+
+#: /functions.php:1315
+msgid "Trending Ticker"
+msgstr ""
+
+#: /functions.php:1320
+msgid "Trending Ticker Option"
+msgstr ""
+
+#: /functions.php:1321
+msgid "Show or Hide the trending Ticker"
+msgstr ""
+
+#: /functions.php:1329
+msgid "Ticker Title"
+msgstr ""
+
+#: /functions.php:1330
+msgid "Write TITLE for ticker eg( Trending: )"
+msgstr ""
+
+#: /functions.php:1332 /parts/ticker.php:7
+msgid "Trending"
+msgstr ""
+
+#: /functions.php:1336
+msgid "Number of ticker"
+msgstr ""
+
+#: /functions.php:1337
+msgid "Choose number of ticker for trending ticker"
+msgstr ""
+
+#: /functions.php:1343
+msgid "Ticker pause speed"
+msgstr ""
+
+#: /functions.php:1352
+msgid "Ticker Order"
+msgstr ""
+
+#: /functions.php:1363
+msgid "Ticker on Responsive"
+msgstr ""
+
+#: /functions.php:1364
+msgid "Checked to disable ticker at mobile device."
+msgstr ""
+
+#: /functions.php:1374
+msgid "Footer"
+msgstr ""
+
+#: /functions.php:1379
+msgid "Footer Setting"
+msgstr ""
+
+#: /functions.php:1384
+msgid "Footer Widget Option"
+msgstr ""
+
+#: /functions.php:1385
+msgid "Hide or show the footer widter area"
+msgstr ""
+
+#: /functions.php:1393
+msgid "Footer Widget Background"
+msgstr ""
+
+#: /functions.php:1394
+msgid "Select background color for widget section"
+msgstr ""
+
+#: /functions.php:1400
+msgid "Footer Layout"
+msgstr ""
+
+#: /functions.php:1401
+msgid "Choose footer widget layout"
+msgstr ""
+
+#: /functions.php:1413
+msgid "Sub-footer Setting"
+msgstr ""
+
+#: /functions.php:1418
+msgid "Sub Footer Option"
+msgstr ""
+
+#: /functions.php:1419
+msgid "Show or hide copy right and footer menu section"
+msgstr ""
+
+#: /functions.php:1427
+msgid "Sub Footer Background"
+msgstr ""
+
+#: /functions.php:1428
+msgid "Select background color for subfooter section"
+msgstr ""
+
+#: /functions.php:1434
+msgid "Sub Footer Text"
+msgstr ""
+
+#: /functions.php:1435
+msgid "Select text color for subfooter section"
+msgstr ""
+
+#: /functions.php:1441
+msgid "Copyright text"
+msgstr ""
+
+#: /functions.php:1442
+msgid "Set footer copyright text"
+msgstr ""
+
+#: /functions.php:1444 /footer.php:18
+msgid "&copy; 2015 AccessPress Mag Pro"
+msgstr ""
+
+#: /functions.php:1448
+msgid "Footer Text"
+msgstr ""
+
+#: /functions.php:1455
+msgid "Footer Menu Option"
+msgstr ""
+
+#: /functions.php:1456
+msgid "Show or hide footer menu"
+msgstr ""
+
+#: /functions.php:1492
+msgid "ADS"
+msgstr ""
+
+#: /functions.php:1498
+msgid "Heder ad"
+msgstr ""
+
+#: /functions.php:1503
+msgid "Your Header Ad"
+msgstr ""
+
+#: /functions.php:1504 /functions.php:1520 /functions.php:1536
+msgid ""
+"Add your google adsense code or use your banner image (728x90) ( &lt; a "
+"href=\"(your image link)\"&gt; &lt; img scr=\"(your image source)\" /&gt; &lt;"
+"/a&gt; )"
+msgstr ""
+
+#: /functions.php:1514
+msgid "Article ad"
+msgstr ""
+
+#: /functions.php:1519
+msgid "Your Article Ad"
+msgstr ""
+
+#: /functions.php:1530
+msgid "Homepage ad"
+msgstr ""
+
+#: /functions.php:1535
+msgid "Your Homepage Inline Ad"
+msgstr ""
+
+#: /functions.php:1542
+msgid "Your Homepage Sidebar Top Ad"
+msgstr ""
+
+#: /functions.php:1543 /functions.php:1550
+msgid ""
+"Add your google adsense code or use your banner image (300x250) ( &lt; a "
+"href=\"(your image link)\"&gt; &lt; img scr=\"(your image source)\" /&gt; &lt;"
+"/a&gt; )"
+msgstr ""
+
+#: /functions.php:1549
+msgid "Your Homepage Sidebar Middle Ad"
+msgstr ""
+
+#: /functions.php:1561
+msgid "Layout Settings"
+msgstr ""
+
+#: /functions.php:1569
+msgid "Homepage Settings"
+msgstr ""
+
+#: /functions.php:1574
+msgid "Slider Settings"
+msgstr ""
+
+#: /functions.php:1579
+msgid "Slider section Option"
+msgstr ""
+
+#: /functions.php:1580
+msgid "Enable or disable slider section at homepage"
+msgstr ""
+
+#: /functions.php:1588
+msgid "Slider Layouts"
+msgstr ""
+
+#: /functions.php:1589
+msgid "Choose your slider layout as you like"
+msgstr ""
+
+#: /functions.php:1597
+msgid "Slider Effect Option"
+msgstr ""
+
+#: /functions.php:1598
+msgid "Checked to disable slider effect for this section."
+msgstr ""
+
+#: /functions.php:1603
+msgid "Slide`s posts option"
+msgstr ""
+
+#: /functions.php:1604
+msgid "Display the posts from category or featured in slider"
+msgstr ""
+
+#: /functions.php:1607
+msgid "From Latest post"
+msgstr ""
+
+#: /functions.php:1608
+msgid "From Selected Category"
+msgstr ""
+
+#: /functions.php:1609
+msgid "From Featrued post"
+msgstr ""
+
+#: /functions.php:1616 /functions.php:1785
+msgid "Select Category"
+msgstr ""
+
+#: /functions.php:1617
+msgid "Select a category for homepage slider"
+msgstr ""
+
+#: /functions.php:1623
+msgid "Show Pager"
+msgstr ""
+
+#: /functions.php:1624
+msgid "Hide or show the slider pager"
+msgstr ""
+
+#: /functions.php:1632
+msgid "Show Controls"
+msgstr ""
+
+#: /functions.php:1633
+msgid "Hide or show the slider controls"
+msgstr ""
+
+#: /functions.php:1641
+msgid "Auto Transition"
+msgstr ""
+
+#: /functions.php:1642
+msgid "On or off the slider auto transition"
+msgstr ""
+
+#: /functions.php:1650
+msgid "Slider Transition"
+msgstr ""
+
+#: /functions.php:1651
+msgid "Select option for slider transition"
+msgstr ""
+
+#: /functions.php:1658
+msgid "Slide Caption"
+msgstr ""
+
+#: /functions.php:1659
+msgid "Show or hide slider`s Title/info/caption"
+msgstr ""
+
+#: /functions.php:1667
+msgid "Big Slide Caption"
+msgstr ""
+
+#: /functions.php:1676
+msgid "Big Slide Caption Transform"
+msgstr ""
+
+#: /functions.php:1683
+msgid "Small Slide Caption"
+msgstr ""
+
+#: /functions.php:1692
+msgid "Small Slide Caption Transform"
+msgstr ""
+
+#: /functions.php:1699
+msgid "Caption Box Background Color"
+msgstr ""
+
+#: /functions.php:1705
+msgid "Category Box"
+msgstr ""
+
+#: /functions.php:1706
+msgid "Show or hide slider`s category box"
+msgstr ""
+
+#: /functions.php:1714
+msgid "Slider Transition Speed"
+msgstr ""
+
+#: /functions.php:1724
+msgid "Slider Pause Duration"
+msgstr ""
+
+#: /functions.php:1733
+msgid "Number of slides"
+msgstr ""
+
+#: /functions.php:1734
+msgid "Choose number of slides"
+msgstr ""
+
+#: /functions.php:1740
+msgid "Category Box Color"
+msgstr ""
+
+#: /functions.php:1746
+msgid "Cateogry Title"
+msgstr ""
+
+#: /functions.php:1752
+msgid "Revolution Shortcode"
+msgstr ""
+
+#: /functions.php:1753
+msgid "Enter the ShortCode of the slider if Slider layout is Revolution Slider"
+msgstr ""
+
+#: /functions.php:1757
+msgid "[rev_slider homepage]"
+msgstr ""
+
+#: /functions.php:1764
+msgid "Popular Block Settings"
+msgstr ""
+
+#: /functions.php:1769
+msgid "Popular Block"
+msgstr ""
+
+#: /functions.php:1770
+msgid "Show or hide popular ariticle section"
+msgstr ""
+
+#: /functions.php:1772
+msgid "Show"
+msgstr ""
+
+#: /functions.php:1773
+msgid "Hide"
+msgstr ""
+
+#: /functions.php:1778
+msgid "Popular Block Title"
+msgstr ""
+
+#: /functions.php:1779
+msgid "Add block name as you like (example: Popular Articles)"
+msgstr ""
+
+#: /functions.php:1782
+msgid "Popular Articles"
+msgstr ""
+
+#: /functions.php:1786
+msgid "Select a category for popular block in homepage"
+msgstr ""
+
+#: /functions.php:1794
+msgid "Choose number of posts in popular section at homepage"
+msgstr ""
+
+#: /functions.php:1804
+msgid "Blocks settings"
+msgstr ""
+
+#: /functions.php:1809
+msgid "Block Title Link"
+msgstr ""
+
+#: /functions.php:1810
+msgid "Checked to enable link of Block Title to their category."
+msgstr ""
+
+#: /functions.php:1815
+msgid "Featured Block (First)"
+msgstr ""
+
+#: /functions.php:1816
+msgid "Select a category for first block in homepage"
+msgstr ""
+
+#: /functions.php:1822 /functions.php:1836 /functions.php:1850 /functions.php:
+#: 1864 /functions.php:1878 /functions.php:1892 /functions.php:1906 /functions.
+#: php:1920 /functions.php:1934 /functions.php:1948
+msgid "Number of posts"
+msgstr ""
+
+#: /functions.php:1823
+msgid "Choose number of posts for block (first)"
+msgstr ""
+
+#: /functions.php:1829
+msgid "Featured Block (Second)"
+msgstr ""
+
+#: /functions.php:1830
+msgid "Select a category for second block in homepage"
+msgstr ""
+
+#: /functions.php:1837
+msgid "Choose number of posts for block (second)"
+msgstr ""
+
+#: /functions.php:1843
+msgid "Featured Block (Third)"
+msgstr ""
+
+#: /functions.php:1844
+msgid "Select a category for third block in homepage"
+msgstr ""
+
+#: /functions.php:1851
+msgid "Choose number of posts for block (third)"
+msgstr ""
+
+#: /functions.php:1857
+msgid "Featured Block (Fourth)"
+msgstr ""
+
+#: /functions.php:1858
+msgid "Select a category for fourth block in homepage"
+msgstr ""
+
+#: /functions.php:1865
+msgid "Choose number of posts for block (fourth)"
+msgstr ""
+
+#: /functions.php:1871
+msgid "Featured Block (Fifth)"
+msgstr ""
+
+#: /functions.php:1872
+msgid "Select a category for fifth block in homepage"
+msgstr ""
+
+#: /functions.php:1879
+msgid "Choose number of posts for block (fifth)"
+msgstr ""
+
+#: /functions.php:1885
+msgid "Featured Block (Sixth)"
+msgstr ""
+
+#: /functions.php:1886
+msgid "Select a category for sixth block in homepage"
+msgstr ""
+
+#: /functions.php:1893
+msgid "Choose number of posts for block (sixth)"
+msgstr ""
+
+#: /functions.php:1899
+msgid "Featured Block (Seventh)"
+msgstr ""
+
+#: /functions.php:1900
+msgid "Select a category for seventh block in homepage"
+msgstr ""
+
+#: /functions.php:1907
+msgid "Choose number of posts for block (seventh)"
+msgstr ""
+
+#: /functions.php:1913
+msgid "Featured Block (Eigth)"
+msgstr ""
+
+#: /functions.php:1914
+msgid "Select a category for eigth block in homepage"
+msgstr ""
+
+#: /functions.php:1921
+msgid "Choose number of posts for block (eigth)"
+msgstr ""
+
+#: /functions.php:1927
+msgid "Featured Block (Ninth)"
+msgstr ""
+
+#: /functions.php:1928
+msgid "Select a category for ninth block in homepage"
+msgstr ""
+
+#: /functions.php:1935
+msgid "Choose number of posts for block (ninth)"
+msgstr ""
+
+#: /functions.php:1941
+msgid "Featured Block (Tenth)"
+msgstr ""
+
+#: /functions.php:1942
+msgid "Select a category for tenth block in homepage"
+msgstr ""
+
+#: /functions.php:1949
+msgid "Choose number of posts for block (tenth)"
+msgstr ""
+
+#: /functions.php:1961
+msgid "Homepage Layouts"
+msgstr ""
+
+#: /functions.php:1966
+msgid "Available Layouts"
+msgstr ""
+
+#: /functions.php:1967
+msgid "Choose your hompage layout"
+msgstr ""
+
+#: /functions.php:1979
+msgid "Post Settings"
+msgstr ""
+
+#: /functions.php:1984
+msgid "Additional Settings"
+msgstr ""
+
+#: /functions.php:1990
+msgid "Show Date"
+msgstr ""
+
+#: /functions.php:1991
+msgid "Enable or disable the post date"
+msgstr ""
+
+#: /functions.php:2000
+msgid "Show Post Views"
+msgstr ""
+
+#: /functions.php:2001
+msgid "Enable or disable the post views"
+msgstr ""
+
+#: /functions.php:2009
+msgid "Show Comment Count"
+msgstr ""
+
+#: /functions.php:2010
+msgid "Enable or disable comment number"
+msgstr ""
+
+#: /functions.php:2018
+msgid "Show Author Under Title"
+msgstr ""
+
+#: /functions.php:2019
+msgid "Shows or hide the author under the post title"
+msgstr ""
+
+#: /functions.php:2027
+msgid "Show Tags on Site"
+msgstr ""
+
+#: /functions.php:2028
+msgid "Enable or disable the post tags"
+msgstr ""
+
+#: /functions.php:2036
+msgid "Show Author Box"
+msgstr ""
+
+#: /functions.php:2037
+msgid "Enable or disable the author box"
+msgstr ""
+
+#: /functions.php:2045
+msgid "Show Navigation in Posts"
+msgstr ""
+
+#: /functions.php:2046
+msgid "Show or hide `next` and `previous` posts"
+msgstr ""
+
+#: /functions.php:2054
+msgid "Lightbox Effect"
+msgstr ""
+
+#: /functions.php:2055
+msgid "Enable or disable lightbox effect for galleries images."
+msgstr ""
+
+#: /functions.php:2067
+msgid "Post Layout"
+msgstr ""
+
+#: /functions.php:2072
+msgid "Default Post Template"
+msgstr ""
+
+#: /functions.php:2073
+msgid ""
+"Setting this option will make all post pages, that don't have a post "
+"template associated to them, to be displayed using this template. This "
+"option is OVERWRITTEN by the `Post template` option from the backend - post "
+"add / edit page."
+msgstr ""
+
+#: /functions.php:2081
+msgid "Default Post Sidebar"
+msgstr ""
+
+#: /functions.php:2082
+msgid ""
+"Setting this option will make all post pages, that don't have a post sidebar "
+"associated to them, to be displayed using this sidebar. This option is "
+"OVERWRITTEN by the `Post sidebar` option from the backend - post add / edit "
+"page."
+msgstr ""
+
+#: /functions.php:2095
+msgid "Featured images"
+msgstr ""
+
+#: /functions.php:2100
+msgid "Show Featured Image"
+msgstr ""
+
+#: /functions.php:2101
+msgid "Show or hide featured image in post`s single page"
+msgstr ""
+
+#: /functions.php:2109
+msgid "Fallback Image option"
+msgstr ""
+
+#: /functions.php:2110
+msgid "Enable or disable featured fallback image in single posts."
+msgstr ""
+
+#: /functions.php:2118 /content-home-style1.php:78 /content-home-style1.php:170 
+#: /content-home-style1.php:272 /content-home-style1.php:374 /content-home-
+#: default.php:82 /content-home-default.php:180 /content-home-default.php:285 
+#: /content-home-default.php:382 /content-home-default.php:480 /content-home-
+#: default.php:577 /content-home-default.php:674 /content-home-default.php:771 
+#: /content-home-default.php:868 /content-home-default.php:965 
+#: /inc/widgets/widget-random-posts.php:88 /parts/similar-posts.php:59
+msgid "Fallback Image"
+msgstr ""
+
+#: /functions.php:2119
+msgid "Upload your fallback image for post's featured image."
+msgstr ""
+
+#: /functions.php:2130
+msgid "Similar Aritcle"
+msgstr ""
+
+#: /functions.php:2135
+msgid "Show Similar Article"
+msgstr ""
+
+#: /functions.php:2136
+msgid "Show or hide similar article section in single post view"
+msgstr ""
+
+#: /functions.php:2144
+msgid "Similar Article-Type"
+msgstr ""
+
+#: /functions.php:2145
+msgid "Sort similar aritcle"
+msgstr ""
+
+#: /functions.php:2153
+msgid "Choose number of posts"
+msgstr ""
+
+#: /functions.php:2158
+msgid "2 Posts"
+msgstr ""
+
+#: /functions.php:2159
+msgid "4 Posts"
+msgstr ""
+
+#: /functions.php:2160
+msgid "6 Posts"
+msgstr ""
+
+#: /functions.php:2169
+msgid "Archive Settings"
+msgstr ""
+
+#: /functions.php:2174
+msgid "Default Archive Style"
+msgstr ""
+
+#: /functions.php:2179
+msgid "Archive page template"
+msgstr ""
+
+#: /functions.php:2180
+msgid "Define - Choose template for all archive pages"
+msgstr ""
+
+#: /functions.php:2188
+msgid "Archive page sidebar"
+msgstr ""
+
+#: /functions.php:2189
+msgid "Define - Choose sidebar for all archive pages"
+msgstr ""
+
+#: /functions.php:2201
+msgid "Custom Category Style"
+msgstr ""
+
+#: /functions.php:2220
+msgid "Define - Choose template for selected category pages"
+msgstr ""
+
+#: /functions.php:2229
+msgid "Define - Choose sidebar for selected category pages"
+msgstr ""
+
+#: /functions.php:2244
+msgid "MISC"
+msgstr ""
+
+#: /functions.php:2252
+msgid "Typography"
+msgstr ""
+
+#: /functions.php:2257
+msgid "Body"
+msgstr ""
+
+#: /functions.php:2263
+msgid "Body Font"
+msgstr ""
+
+#: /functions.php:2277
+msgid "Header 1"
+msgstr ""
+
+#: /functions.php:2283
+msgid "H1 Font"
+msgstr ""
+
+#: /functions.php:2293
+msgid "H1 Text Transform"
+msgstr ""
+
+#: /functions.php:2305
+msgid "Header 2"
+msgstr ""
+
+#: /functions.php:2311
+msgid "H2 Font"
+msgstr ""
+
+#: /functions.php:2321
+msgid "H2 Text Transform"
+msgstr ""
+
+#: /functions.php:2333
+msgid "Header 3"
+msgstr ""
+
+#: /functions.php:2339
+msgid "H3 Font"
+msgstr ""
+
+#: /functions.php:2349
+msgid "H3 Text Transform"
+msgstr ""
+
+#: /functions.php:2361
+msgid "Header 4"
+msgstr ""
+
+#: /functions.php:2367
+msgid "H4 Font"
+msgstr ""
+
+#: /functions.php:2377
+msgid "H4 Text Transform"
+msgstr ""
+
+#: /functions.php:2389
+msgid "Header 5"
+msgstr ""
+
+#: /functions.php:2395
+msgid "H5 Font"
+msgstr ""
+
+#: /functions.php:2405
+msgid "H5 Text Transform"
+msgstr ""
+
+#: /functions.php:2417
+msgid "Header 6"
+msgstr ""
+
+#: /functions.php:2423
+msgid "H6 Font"
+msgstr ""
+
+#: /functions.php:2433
+msgid "H6 Text Transform"
+msgstr ""
+
+#: /functions.php:2445
+msgid "Widget"
+msgstr ""
+
+#: /functions.php:2451
+msgid "Widget Title Font"
+msgstr ""
+
+#: /functions.php:2460
+msgid "Widget Text Heading Transform"
+msgstr ""
+
+#: /functions.php:2472
+msgid "Excerpts"
+msgstr ""
+
+#: /functions.php:2476
+msgid "Archive Excerpts"
+msgstr ""
+
+#: /functions.php:2481
+msgid "Notice:"
+msgstr ""
+
+#: /functions.php:2482
+msgid ""
+"Adding a text as excerpt on post edit page (Excerpt box), will overwrite the "
+"theme excerpts"
+msgstr ""
+
+#: /functions.php:2487 /functions.php:2514
+msgid "Excerpts Type"
+msgstr ""
+
+#: /functions.php:2488
+msgid "Define - type of excerpt for archives pages"
+msgstr ""
+
+#: /functions.php:2498 /functions.php:2525
+msgid "Excerpt Length"
+msgstr ""
+
+#: /functions.php:2499
+msgid "Define - Excerpt length of words/letters for archive pages"
+msgstr ""
+
+#: /functions.php:2509
+msgid "Home Excerpts"
+msgstr ""
+
+#: /functions.php:2515
+msgid "Define - type of excerpt for homepage posts"
+msgstr ""
+
+#: /functions.php:2526
+msgid "Define - Excerpt length of words/letters for homepage posts"
+msgstr ""
+
+#: /functions.php:2537 /functions.php:2541
+msgid "Translations"
+msgstr ""
+
+#: /functions.php:2546
+msgid "Translate Your Theme"
+msgstr ""
+
+#: /functions.php:2547
+msgid ""
+"Translate your frontend easily without any external plugins. While you leave "
+"the box empty and the theme will load the default string"
+msgstr ""
+
+#: /content-single-style5.php:23 /content-single-style1.php:85 /content-page.php:
+#: 16 /content-single-style4.php:21 /content-single-style3.php:21 /content-single-
+#: style2.php:73 /content-single.php:89
+msgid "Pages:"
+msgstr ""
+
+#: /footer.php:19
+msgid "Powered By <a href=\"http://accesspressthemes.com/\">Accesspress Themes</a>"
+msgstr ""
+
+#. Name of the template
+msgid "CategoriesPage"
+msgstr ""
+
+#: /content-page.php:23
+msgid "Edit"
+msgstr ""
+
+#. Name of the template
+msgid "Home Page"
+msgstr ""
+
+#: /header.php:46
+msgid "Skip to content"
+msgstr ""
+
+#: /inc/accesspress-mega-menu.php:198
+msgid "All"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: /inc/accesspress-mega-menu.php:434
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: /inc/accesspress-mega-menu.php:438
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: /inc/accesspress-mega-menu.php:451
+msgid "sub item"
+msgstr ""
+
+#: /inc/accesspress-mega-menu.php:466
+msgid "Move up"
+msgstr ""
+
+#: /inc/accesspress-mega-menu.php:479
+msgid "Move down"
+msgstr ""
+
+#: /inc/accesspress-mega-menu.php:481 /inc/accesspress-mega-menu.php:483
+msgid "Edit Menu Item"
+msgstr ""
+
+#: /inc/accesspress-mega-menu.php:492
+msgid "URL"
+msgstr ""
+
+#: /inc/accesspress-mega-menu.php:499
+msgid "Navigation Label"
+msgstr ""
+
+#: /inc/accesspress-mega-menu.php:505
+msgid "Title Attribute"
+msgstr ""
+
+#: /inc/accesspress-mega-menu.php:512
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: /inc/accesspress-mega-menu.php:517
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: /inc/accesspress-mega-menu.php:523
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: /inc/accesspress-mega-menu.php:529
+msgid "Description"
+msgstr ""
+
+#: /inc/accesspress-mega-menu.php:531
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: /inc/accesspress-mega-menu.php:556
+msgid "Make this Category as a Mega Menu"
+msgstr ""
+
+#: /inc/accesspress-mega-menu.php:572
+msgid "Move"
+msgstr ""
+
+#: /inc/accesspress-mega-menu.php:573
+msgid "Up one"
+msgstr ""
+
+#: /inc/accesspress-mega-menu.php:574
+msgid "Down one"
+msgstr ""
+
+#: /inc/accesspress-mega-menu.php:577
+msgid "To the top"
+msgstr ""
+
+#: /inc/accesspress-mega-menu.php:584
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: /inc/accesspress-mega-menu.php:597 /inc/widgets/widget-fields.php:241 
+#: /inc/widgets/widget-fields.php:376
+msgid "Remove"
+msgstr ""
+
+#: /inc/accesspress-mega-menu.php:598
+msgid "Cancel"
+msgstr ""
+
+#: /inc/accesspress-functions.php:1034
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: /inc/accesspress-functions.php:1320
+msgid "Page"
+msgstr ""
+
+#: /inc/accesspress-functions.php:1628
+msgid "View a random post"
+msgstr ""
+
+#: /inc/widgets/widget-latest-posts.php:25
+msgid "A widget that shows latest posts"
+msgstr ""
+
+#: /inc/widgets/widget-latest-posts.php:38 /inc/widgets/widget-flickr-stream.php:
+#: 37 /inc/widgets/widget-news-pictures.php:50 /inc/widgets/widget-latest-reviews.
+#: php:38 /inc/widgets/widget-contributors.php:36 /inc/widgets/widget-featured-
+#: category.php:49 /inc/widgets/widget-youtube.php:36 /inc/widgets/widget-random-
+#: posts.php:36
+msgid "Title"
+msgstr ""
+
+#: /inc/widgets/widget-latest-posts.php:88 /inc/widgets/widget-latest-reviews.php:
+#: 129 /inc/widgets/widget-latest-reviews.php:148
+msgid "No image"
+msgstr ""
+
+#: /inc/widgets/widget-flickr-stream.php:23
+msgid "Displays your Flickr photos."
+msgstr ""
+
+#: /inc/widgets/widget-flickr-stream.php:43
+msgid "Flickr ID"
+msgstr ""
+
+#: /inc/widgets/widget-flickr-stream.php:48
+msgid "Number of Photos"
+msgstr ""
+
+#: /inc/widgets/widget-flickr-stream.php:59
+msgid "Type (user or group)"
+msgstr ""
+
+#: /inc/widgets/widget-flickr-stream.php:68
+msgid "Display"
+msgstr ""
+
+#: /inc/widgets/widget-news-pictures.php:23
+msgid "A widget that display only images from selected categories."
+msgstr ""
+
+#: /inc/widgets/widget-news-pictures.php:60
+msgid "Select Multiple Categories"
+msgstr ""
+
+#: /inc/widgets/widget-news-pictures.php:62
+msgid "Select Categories"
+msgstr ""
+
+#: /inc/widgets/widget-latest-reviews.php:25
+msgid "A widget that shows latest review posts"
+msgstr ""
+
+#: /inc/widgets/widget-latest-reviews.php:43
+msgid "Review Type"
+msgstr ""
+
+#: /inc/widgets/widget-sponsers.php:22
+msgid "A widget that shows multiple sponsers images."
+msgstr ""
+
+#: /inc/widgets/widget-sponsers.php:35
+msgid "Widget Title"
+msgstr ""
+
+#: /inc/widgets/widget-sponsers.php:40
+msgid "Sponser 1"
+msgstr ""
+
+#: /inc/widgets/widget-sponsers.php:45 /inc/widgets/widget-sponsers.php:65 
+#: /inc/widgets/widget-sponsers.php:85 /inc/widgets/widget-sponsers.php:105
+msgid "Sponser Name"
+msgstr ""
+
+#: /inc/widgets/widget-sponsers.php:50 /inc/widgets/widget-sponsers.php:70 
+#: /inc/widgets/widget-sponsers.php:90 /inc/widgets/widget-sponsers.php:110
+msgid "Sponser Logo"
+msgstr ""
+
+#: /inc/widgets/widget-sponsers.php:55 /inc/widgets/widget-sponsers.php:75 
+#: /inc/widgets/widget-sponsers.php:95 /inc/widgets/widget-sponsers.php:115
+msgid "Sponser Link"
+msgstr ""
+
+#: /inc/widgets/widget-sponsers.php:60
+msgid "Sponser 2"
+msgstr ""
+
+#: /inc/widgets/widget-sponsers.php:80
+msgid "Sponser 3"
+msgstr ""
+
+#: /inc/widgets/widget-sponsers.php:100
+msgid "Sponser 4"
+msgstr ""
+
+#: /inc/widgets/widget-contributors.php:23
+msgid "A widget that shows article contributors"
+msgstr ""
+
+#: /inc/widgets/widget-featured-category.php:23
+msgid "A widget that shows posts from selected category."
+msgstr ""
+
+#: /inc/widgets/widget-featured-category.php:54
+msgid "Featured Categories"
+msgstr ""
+
+#: /inc/widgets/widget-featured-category.php:66
+msgid "Show View All button"
+msgstr ""
+
+#: /inc/widgets/widget-fields.php:236
+msgid "No file chosen"
+msgstr ""
+
+#: /inc/widgets/widget-fields.php:239 /inc/widgets/widget-fields.php:375
+msgid "Upload"
+msgstr ""
+
+#: /inc/widgets/widget-fields.php:244
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: /inc/widgets/widget-fields.php:266
+msgid "View File"
+msgstr ""
+
+#: /inc/widgets/widget-youtube.php:23
+msgid "A widget display number of youtube video in list view."
+msgstr ""
+
+#: /inc/widgets/widget-youtube.php:41
+msgid "Youtube Video Ids"
+msgstr ""
+
+#: /inc/widgets/widget-youtube.php:42
+msgid ""
+"Add youtube id's separated by comma (ex: xrt27dZ7DOA, u8--jALkijM, "
+"HusniLw9i68)"
+msgstr ""
+
+#: /inc/widgets/widget-random-posts.php:23
+msgid "A widget that shows Random posts"
+msgstr ""
+
+#: /parts/menu-top.php:26
+msgid "Top Menu Right"
+msgstr ""
+
+#: /parts/menu-top.php:43
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\">Click here - to select or create a menu</a> "
+msgstr ""
+
+#. Name of the theme
+msgid "Femeia.ro"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "http://www.femeia.ro/accesspress-mag-pro-child"
+msgstr ""
+
+#. Description of the theme
+msgid "AccessPress Mag Pro Child"
+msgstr ""
+
+#. Author of the theme
+msgid "Gabi Boaca"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.digital4.ro"
+msgstr ""
