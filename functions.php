@@ -1,6 +1,6 @@
 <?php
 
-/*
+/* Test
 *****************************************************
 FUNCTION REWRITE CATEGORY_DETAILS - SA ELIMINE CATEGORIA FEATURED HOMEPAGE DIN LISTA DE CATEG, A.I. SA NU O AFISEZE PE HOME
 *****************************************************
